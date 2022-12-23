@@ -1,3 +1,8 @@
+# Iceberg
+
+**I currently recommend using Iceberg tables instead of using these committers**. Check out the [Apache Iceberg](https://iceberg.apache.org) project, [apache/iceberg](https://github.com/apache/iceberg) for details.
+
+
 ## S3 output committers
 
 This project has Hadoop OutputCommitter implementations for S3.
